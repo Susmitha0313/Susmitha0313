@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Susmitha S and I'm a passionate MERN stack developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Susmitha S and I'm a passionate web developer, from India</h2>
 
 ###
 
