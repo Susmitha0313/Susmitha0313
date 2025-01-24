@@ -30,11 +30,11 @@ If you're looking for a determined and creative developer to join your team, let
 
 
 <div align="center"> 
- <a href="mailto:susmitha0313@gmail.com">
+ <a target="_blank" href="mailto:susmitha0313@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" alt="Gmail logo" />
 </a>
     <img width="12" />
-  <a href="https://www.linkedin.com/in/susmitha-s0313"> 
+  <a target="_blank" href="https://www.linkedin.com/in/susmitha-s0313"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="35" alt="linkedin logo" /> 
   </a>
 </div>
