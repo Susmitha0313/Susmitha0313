@@ -6,7 +6,8 @@ Aside from coding, I enjoy sharpening my skills by solving DSA problems on LeetC
 
 If you're looking for a determined and creative developer to join your team, let's connect!
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=susmitha0313&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=susmitha0313&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=susmitha0313&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=susmitha0313&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
 🛠 Tech Stack:
 <div align="center"> 
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /> 
@@ -27,12 +28,13 @@ If you're looking for a determined and creative developer to join your team, let
 
 📫 Connect with me:
 
+
 <div align="center"> 
- <a href="susmitha0313@gmail.com">
+ <a href="mailto:susmitha0313@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" alt="Gmail logo" />
 </a>
+    <img width="12" />
   <a href="https://www.linkedin.com/in/susmitha-s0313"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="35" alt="linkedin logo" /> 
-  </a> 
+  </a>
 </div>
-
