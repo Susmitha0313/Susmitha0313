@@ -68,9 +68,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susmitha0313&show_icons=true&locale=en&layout=compact" alt="susmitha0313" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susmitha0313&show_icons=true&locale=en" alt="susmitha0313" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmitha0313" alt="susmitha0313" /></a> </p>
 
 
 
