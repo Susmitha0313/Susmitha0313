@@ -2,12 +2,10 @@
 <h3 align="center">
   A self-taught Software Developer
 </h3>
-<p align="center">Software DEveloper with a strong foundation in JavaScript, TypeScript, React, Node.js, and Redux. <br/>
-  I love solving real-world problems through technology and building scalable, user-friendly applications. I have hands-on experience working on various projects which you can see in my repository. <br/> 
+<p align="center">Software Developer with a strong foundation in JavaScript, TypeScript, React, Node.js, and Redux. <br/>
+  I love solving real-world problems through technology and building scalable, user-friendly applications. Check on my Repository to see my works<br/> 
   Aside from coding, I enjoy sharpening my skills by solving DSA problems on LeetCode and exploring new tools and technologies. I'm a lifelong learner committed to staying updated with the latest industry trends.<br/>
   If you're looking for a determined and creative developer to join your team, let's connect!</p>
-
-- 🌱 I’m currently learning **Next.Js and Typescript**
 
 - 📫 How to reach me **susmitha0313@gmail.com**
 
